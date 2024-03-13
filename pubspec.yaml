@@ -37,10 +37,7 @@ dependencies:
   flutter_stripe: ^7.0.0
   flutter_dotenv: ^5.0.2
   flutter_stripe_web: ^2.1.1
-  stripe_checkout: ^1.0.1
-  pay: ^1.1.0
   http: ^0.13.5
-  platform: ^3.0.0
 
 
 dev_dependencies:

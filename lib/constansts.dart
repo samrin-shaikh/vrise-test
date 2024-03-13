@@ -1,0 +1,5 @@
+class MyConstants{
+  static String publishableKey = "pk_test_51OsMYXSFnYhx5Dsz3Ixv8fhPUxNdp2lO2MdVPYH5mIlboOTUaIhcGscEULPqkEeZGyOBPA0FGc6gnz9z1KDevMmH00Lv7h1A5J";
+  static String secretKey = "sk_test_51OsMYXSFnYhx5DszZOSxnFEUJlc0Nq8BFYPVsVsRgRlIlebNP3w1XHAbceWro1P0PmeymTWmlbHEObA8VSjXH6pF00zunyInhC";
+
+}
